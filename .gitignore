@@ -1,3 +1,3 @@
 /skybook-frontend/node_modules
 /src/main/resources/application.properties
-/src/target/
+target/
